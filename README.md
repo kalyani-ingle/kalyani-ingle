@@ -1,8 +1,9 @@
 # Hey there 👋
 
-## 💻  About me
+## 💻  About me 
 
 I'm Kalyani, a MERN Stack Developer with a passion for building complete applications from concept to production.
+Checkout my Portfolio: <a href= "https://kalyani-ingle-portfolio" target="_blank" noopener no referrer> Portfolio </a>
 
 ## 🎓  Education
 I hold a Bachelor's in Architecture, along with a Master's and PhD in City Planning from IIT Kharagpur. During my doctoral work, I used Python for data analysis, statistical modeling, and visualizations, which ignited my interest in programming. Since then, I've developed the skills needed to build software projects.
@@ -26,6 +27,10 @@ My toolkit includes, but is not limited to:
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain-wordmark.svg" title="git " alt="git"  width="50" height="50" /> &nbsp;
 </div>
 
+## Portfolio
+<a href="https://kalyani-ingle-portfolio" target="_blank" noopener no referrer/>
+
+
 <hr/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kalyani-ingle/">
@@ -33,5 +38,5 @@ My toolkit includes, but is not limited to:
   </a>&nbsp;
     <a href="mailto:kalyani@gruncode.io">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
-  </a>
+    </a>
 </div>
