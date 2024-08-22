@@ -2,14 +2,14 @@
 
 ## 💻  About me 
 
-I'm Kalyani, a MERN Stack Developer with a passion for building complete applications from concept to production.
-Checkout my Portfolio: <a href= "https://kalyani-ingle-portfolio" target="_blank" noopener no referrer> Portfolio </a>
+I'm Kalyani, a MERN Stack Developer with a passion for building complete applications from concept to production. <br/>
+Checkout my <a href= "https://kalyani-ingle-portfolio" target="_blank" noopener no referrer> Portfolio </a> here. Currently I am learning docker, prisma and Sveltekit.
 
 ## 🎓  Education
 I hold a Bachelor's in Architecture, along with a Master's and PhD in City Planning from IIT Kharagpur. During my doctoral work, I used Python for data analysis, statistical modeling, and visualizations, which ignited my interest in programming. Since then, I've developed the skills needed to build software projects.
 
 ## 💼  Experience
-In my journey as a software developer, I've worked on MERN stack projects, co-founded RunCode, and taken on the role of project coordinator. I enjoy every aspect of programming, from crafting beautiful UIs to building backend systems.
+In my journey as a developer, I've worked on MERN stack projects, co-founded RunCode, and taken on the role of project coordinator. I enjoy every aspect of programming, from crafting beautiful UIs to building backend systems.
 
 ## 🛠️  Technologies & Skills
 My toolkit includes, but is not limited to:
@@ -26,10 +26,6 @@ My toolkit includes, but is not limited to:
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original-wordmark.svg" title="express " alt="express"  width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain-wordmark.svg" title="git " alt="git"  width="50" height="50" /> &nbsp;
 </div>
-
-## Portfolio
-<a href="https://kalyani-ingle-portfolio" target="_blank" noopener no referrer/>
-
 
 <hr/>
 <div id="badges" align="center">
