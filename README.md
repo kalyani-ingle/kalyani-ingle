@@ -3,7 +3,7 @@
 ## 💻  About me 
 
 I'm Kalyani, a MERN Stack Developer with a passion for building complete applications from concept to production. <br/>
-Checkout my <a href= "https://kalyani-ingle-portfolio" target="_blank" noopener no referrer> Portfolio </a> here. Currently I am learning docker, prisma and Sveltekit.
+Checkout my <a href= "https://kalyani-ingle-portfolio.vercel.app" target="_blank" noopener no referrer> Portfolio </a> here. Currently I am learning docker, prisma and Sveltekit.
 
 ## 🎓  Education
 I hold a Bachelor's in Architecture, along with a Master's and PhD in City Planning from IIT Kharagpur. During my doctoral work, I used Python for data analysis, statistical modeling, and visualizations, which ignited my interest in programming. Since then, I've developed the skills needed to build software projects.
